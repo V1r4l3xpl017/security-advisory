@@ -1,0 +1,6 @@
+# Editor/vault metadata — not part of any advisory
+.obsidian/
+.DS_Store
+advisories/**/draft/
+templates/
+draft/
